@@ -1,2 +1,2 @@
 # Aprendendo-C
-Estou me aventurando a linguagem C depois que conheci na faculdade.
+Estou aprofundando  meus conhecimentos na linguagem C, depois que conheci na faculdade de Análise e Desenvolvimento de Sistemas.
